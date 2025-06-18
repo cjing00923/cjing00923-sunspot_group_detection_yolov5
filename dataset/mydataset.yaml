@@ -1,0 +1,59 @@
+#
+## Train/val/val sets as 1) dir: path/to/imgs, 2) file: path/to/imgs.txt, or 3) list: [path/to/imgs1, path/to/imgs2, ..]
+##path: ../dataset  # dataset root dir
+#train: D:/pythonProjects/yolov5-master/dataset/usetmengban_drop
+#val: D:/pythonProjects/yolov5-master/dataset/val
+#test:  # val images (optional)
+#
+## Classes
+#names:
+#  0: A
+#  1: B
+#  2: C
+#  3: D
+#  4: E
+#  5: F
+#  6: G
+#  7: H
+#  8: J
+
+
+
+## Train/val/val sets as 1) dir: path/to/imgs, 2) file: path/to/imgs.txt, or 3) list: [path/to/imgs1, path/to/imgs2, ..]
+##path: ../dataset  # dataset root dir
+#train: D:/pythonProjects/yolov5-master/dataset/train_usetmengban_latlondrop
+#val: D:/pythonProjects/yolov5-master/dataset/val
+#test:  # val images (optional)
+#
+## Classes
+#names:
+#  0: A
+#  1: B
+#  2: C
+#  3: D
+#  4: E
+#  5: F
+#  6: G
+#  7: H
+#  8: J
+
+
+
+
+# Train/val/val sets as 1) dir: path/to/imgs, 2) file: path/to/imgs.txt, or 3) list: [path/to/imgs1, path/to/imgs2, ..]
+#path: ../dataset  # dataset root dir
+train: D:/pythonProjects/yolov5-master/dataset/train_usetmengban_latlondrop_epoch1
+val: D:/pythonProjects/yolov5-master/dataset/val
+test:  # val images (optional)
+
+# Classes
+names:
+  0: A
+  1: B
+  2: C
+  3: D
+  4: E
+  5: F
+  6: G
+  7: H
+  8: J
